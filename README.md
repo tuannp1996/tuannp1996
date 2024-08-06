@@ -1,5 +1,12 @@
-## Hi there 👋
+# About me
+Hi there 👋 I'm Tuan.
+Full stack Engineer.Java Javascript.
 
+![](https://komarev.com/ghpvc/?username=tuannp1996)
+
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=java,js,ts,docker,react,vscode)](https://skillicons.dev)
 <!--
 **tuannp1996/tuannp1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
